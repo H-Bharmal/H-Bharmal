@@ -1,5 +1,13 @@
-### Hi there 👋
-
+<div align='center'><h1>Hello 👋</h1>
+<div align="center">
+<a href="mailto:hb.hamzabharmal@gmail.com" rel="nofollow"><img align="right" alt="Hamza's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/4698/4698190.png" /></a>
+<a href="https://www.linkedin.com/in/hamzabharmal/" target="_blank" rel="nofollow"><img align="right" alt="Hamza's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
+<a href="https://www.instagram.com/__hmz.__/" target="_blank" rel="nofollow"><img align="right" alt="Hamza's Instagram Handle" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
+</div>
+<p align ="left">
+-> I am Hamza Bharmal, pursuing B.E(CSE) from <a href="https://www.msrit.edu/">Ramaiah Institute of Technology</a><br>
+-> I am currently learning Advanced Java and BackEnd-WebDev
+</p>
 <!--
 **H-Bharmal/H-Bharmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
