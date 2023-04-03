@@ -66,7 +66,7 @@
 </div>   -->
 
 <div align="center">
-<!--   <table style="border-color :#000000"> -->
+  <table>
   <tr>
 <td><a href="https://github.com/H-Bharmal" rel="nofollow" target="_blank" ><img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" align="center" width="22px" style="margin :15px;" alt="github"/></a></td>
 <td><a href="mailto:hb.hamzabharmal@gmail.com" rel="nofollow" target="_blank" ><img style="margin :15px;" alt="Hamza's Email" width="22px" align="center" src="https://cdn-icons-png.flaticon.com/512/4698/4698190.png" /></a> </td>
